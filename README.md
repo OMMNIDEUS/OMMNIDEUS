@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OMMNIDEUS
+- 👋 Hi, I’m @VANG
 - 👀 I’m interested in ...AI and mimicking humans 
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...Heart connections romantic+platonic+codonic
